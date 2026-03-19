@@ -84,3 +84,6 @@ def main(text_column='text', target_column='target'):
 
 if __name__ == '__main__':
     main()
+
+if __name__ == '__main__':
+    main()
